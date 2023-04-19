@@ -6,6 +6,12 @@
 * *Nombres y Apellidos*
 * *Nombres y Apellidos*
 
+## Documentación:
+* Adjuntar aquí la descripción de su programa.
+* Indicar los comandos necesarios para ejecutar el programa.
+* Indicar, si existen, las librerías externas requeridas para su programa.
+* Indicar los requerimientos: #núcleos, procesador, etc.
+
 ## Borre esta sección una vez usted escoja su proyecto
 
 Para el proyecto el grupo podrá elegir entre tres opciones.
@@ -29,10 +35,4 @@ Para el proyecto el grupo podrá elegir entre tres opciones.
 
 ### Importante
 Si se verifica que el grupo no es el autor original del programa, la nota del grupo será CERO. Sin opción a una recuperación.
-
-## Documentación:
-* Adjuntar aquí la descripción de su programa.
-* Indicar los comandos necesarios para ejecutar el programa.
-* Indicar, si existen, las librerías externas requeridas para su programa.
-* Indicar los requerimientos: #núcleos, procesador, etc.
 
