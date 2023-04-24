@@ -10,7 +10,7 @@
 * Adjuntar aquí la descripción de su programa.
 * Indicar los comandos necesarios para ejecutar el programa.
 * Indicar, si existen, las librerías externas requeridas para su programa.
-* Indicar los requerimientos: #núcleos, procesador, etc.
+* Indicar los requerimientos: núcleos, procesador, etc.
 
 ## Borre esta sección una vez usted escoja su proyecto
 
@@ -33,7 +33,7 @@ Para el proyecto el grupo podrá elegir entre tres opciones.
 * Use POO para simular las partículas del fluido, su interacción con otras partículas y su movimiento.
 * Use programación paralela para optimizar su programa. Compare los tiempos.
 
-### Requerimientos: 
+### Requerimientos
 * Fecha de entrega: 03/07/2023
 * Fecha de presentación: 10/07/2023
 * El grupo debe estar conformado, a lo más, de 4 integrantes.
