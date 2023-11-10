@@ -17,7 +17,7 @@
 ### El camino más corto de un punto a otro
 * El programa debe ser capaz de generar un mapa con obstáculos y un laberinto.
 * El programa debe tener la opción de seleccionar el punto de partida y el destino.
-* Comparar la solución con los algoritmos de Dijkstra, BFS y DFS.
+* Comparar la solución de los algoritmos Dijkstra, BFS y DFS.
 * (+) Crear un DEMO para a su programa ([ejemplo](https://www.youtube.com/watch?v=g024lzsknDo)).
 
 ### Requerimientos
